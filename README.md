@@ -22,66 +22,31 @@
 ---
 
 ## :man_technologist: About Me:
-- 🔭I work at a rocket and space center as an automation engineer.
-- 🧑‍🎓I've been learning Java for more than 6 months.
+- 🔭 I work at a rocket and space center as an automation engineer.
+- 🧑‍🎓 I've been learning Java for more than 6 months.
 - 🤔 I want to start a career as a backend developer.
-- ✏️I do small pet projects.
+- ✏️ I do small pet projects.
 ---
- ### :hammer_and_wrench: Languages and Tools :
- 
-<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 10px;">
-  <div style="display: flex; align-items: center; gap: 10px; line-height: 1.4; height: 60px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>
-    <span style="font-size: 14px;">Основной язык программирования, изучаю Java более 6 месяцев.</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 10px; line-height: 1.4; height: 60px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>
-    <span style="font-size: 14px;">Использую Spring для разработки веб-приложений и REST API.</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 10px; line-height: 1.4; height: 60px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" title="Hibernate" alt="Hibernate" width="60" height="60"/>
-    <span style="font-size: 14px;">Работаю с Hibernate для управления базами данных.</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 10px; line-height: 1.4; height: 60px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="Maven" alt="Maven" width="60" height="60"/>
-    <span style="font-size: 14px;">Использую Maven для управления проектами и зависимостями.</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 10px; line-height: 1.4; height: 60px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="60" height="60"/>
-    <span style="font-size: 14px;">Верстаю страницы с использованием CSS3.</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 10px; line-height: 1.4; height: 60px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>
-    <span style="font-size: 14px;">Создаю структуры веб-страниц с помощью HTML5.</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 10px; line-height: 1.4; height: 60px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>
-    <span style="font-size: 14px;">Работаю с базами данных на PostgreSQL.</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 10px; line-height: 1.4; height: 60px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
-    <span style="font-size: 14px;">Использую Git для контроля версий.</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 10px; line-height: 1.4; height: 60px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>
-    <span style="font-size: 14px;">Контейнеризирую приложения с помощью Docker.</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 10px; line-height: 1.4; height: 60px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="OpenAPI" alt="OpenAPI" width="60" height="60"/>
-    <span style="font-size: 14px;">Документирую API с использованием OpenAPI.</span>
-  </div>
-</div>
 
+### :hammer_and_wrench: Languages and Tools:
 
-
+- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" style="vertical-align: middle;"/> **Java**: Experience with Java for **{{java_exp}}**.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40" style="vertical-align: middle;"/> **Spring**: Developing web applications with Spring for **{{spring_exp}}**.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" title="Hibernate" alt="Hibernate" width="40" height="40" style="vertical-align: middle;"/> **Hibernate**: Managing databases with Hibernate for **{{hibernate_exp}}**.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="Maven" alt="Maven" width="40" height="40" style="vertical-align: middle;"/> **Maven**: Managing projects with Maven for **{{maven_exp}}**.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40" style="vertical-align: middle;"/> **CSS**: Styling web pages with CSS for **{{css_exp}}**.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" style="vertical-align: middle;"/> **HTML**: Structuring web pages with HTML for **{{html_exp}}**.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" style="vertical-align: middle;"/> **PostgreSQL**: Working with PostgreSQL databases for **{{postgres_exp}}**.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" style="vertical-align: middle;"/> **Git**: Version control with Git for **{{git_exp}}**.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" style="vertical-align: middle;"/> **Docker**: Containerizing applications with Docker for **{{docker_exp}}**.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="OpenAPI" alt="OpenAPI" width="40" height="40" style="vertical-align: middle;"/> **OpenAPI**: Documenting APIs with OpenAPI for **{{openapi_exp}}**.
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Funt1koff&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Funt1koff&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
